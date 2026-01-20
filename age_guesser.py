@@ -1,4 +1,4 @@
-from math import random
+import random
 def age_guesser():
     print("Hey you is it going! I am going to try and guess your age first I name your name")
     name = input("Name: ")
@@ -13,3 +13,4 @@ def age_guesser():
             print("Rats")
         
         
+age_guesser()
