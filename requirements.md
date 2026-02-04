@@ -1,0 +1,19 @@
+SEVENTH - Weekly journal
+
+Business Context:
+We want to create a platform where users are encouraged and reminded to reflect, share, and ponder on their week. Our platform would create an environment where only those who would be willing to read and write long entries could share and reflect with each other. thus gaining deeper understandings and reflections on all aspects of life. This platform would help create a positive and healthy environment which encourages people to journal which is a very important skill to have, using this would mkae it accessible and allow users to take a step back and dedicate a moment to themselves, outside of all the craziness of their own routines.
+
+Problem Statment:
+Often times people will share long passages on other social media platforms with more short form focuses, and majority of users skip over these captions when the poster may have had a strong desire to share all of their thoughts. Our platform will allow those who enjoy the reading and writing to spend as much time as they want, throughout the week, writing their thoughts down and having no word limit, in order to allow them to get it all out. This platform will allow users to comment and read other posts to gain encouragement and support with other users. This platform opens up a market to those who like to or want to start journaling, a strong habit to gain. Having the reflection only post on sundays, at the end of the week before the start of a new will allow a delayed gratification aspect, an anticipation each week to build a desire in users. We think this will be an appealing aspect to users, and allow them to reflect 1 week at a time, instead of random times, and allow consistent use and posting while reflecting each week. We would only allow users to read other posts if they posted the current week, even if just 1 thought, 1 phrase or word of advice, we would want each user to share and build each other up, helping to build the platform and society.
+
+Scope:
+The users build their post throughout the week. There will be a section in the app where each user can go in and write down things that had been happening that week. On Sunday they will post it, the user won't be allowed to post until the seventh day of the week. The rest of the days are just building up to that day. The content they type throughout the week it's private and editable until they post it. They can read and comment on other people's posts monday through saturday.
+
+Assumptions:
+Users are willing to wait until sunday to post their thoughts. People want to share some personal information abuot their week, feelings, mood, etc. The users will create a community where they feel comfortable sharing and feeling connected to strangers that may be going through the same things, feeling some sort of support. 
+
+Functional Requirements:
+users have to be able to type messages and post them, being able to comment on others after they first post. Users must be able to create an account which they can log in to from anywhere accessible, and have the same feed. users must be able to save their progress through the week, being able to post only on sunday. 
+
+Non-Functional Requirements
+Accessible around the world on different hardware and IOS or Andriod, compatible in different languages and settings. Create an algorithm which caters a feed to users interets. Users can upload files instead of typing from the app. App should be able to handle spikes in user usage on sundays, so make it scalable. We need to also take into consideration the time zones, it will unlock at a certain time for each time zone. You can't see other people's post until you post. 
