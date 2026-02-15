@@ -14,6 +14,6 @@ Users are willing to wait until sunday to post their thoughts. People want to sh
 
 Functional Requirements:
 users have to be able to type messages and post them, being able to comment on others after they first post. Users must be able to create an account which they can log in to from anywhere accessible, and have the same feed. users must be able to save their progress through the week, being able to post only on sunday. 
-gilb
+
 Non-Functional Requirements
 Accessible around the world on different hardware and IOS or Andriod, compatible in different languages and settings. Create an algorithm which caters a feed to users interets. Users can upload files instead of typing from the app. App should be able to handle spikes in user usage on sundays, so make it scalable. We need to also take into consideration the time zones, it will unlock at a certain time for each time zone. You can't see other people's post until you post. 
