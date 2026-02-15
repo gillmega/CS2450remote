@@ -1,5 +1,5 @@
 SEVENTH - Weekly journal
-
+gilber
 Business Context:
 We want to create a platform where users are encouraged and reminded to reflect, share, and ponder on their week. Our platform would create an environment where only those who would be willing to read and write long entries could share and reflect with each other. thus gaining deeper understandings and reflections on all aspects of life. This platform would help create a positive and healthy environment which encourages people to journal which is a very important skill to have, using this would mkae it accessible and allow users to take a step back and dedicate a moment to themselves, outside of all the craziness of their own routines.
 
