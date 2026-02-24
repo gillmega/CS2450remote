@@ -9,3 +9,6 @@ We wrote a requirements document based on our app and ideas. We considered what 
 
 Date 02/14/2026 - Subject: Desgin
 This week we focused on design with our group trying to create flowcharts and diagrams based on our requirements. As well as doing a team assignment on using git.
+
+Date 02/21/2026 - Subject: Presentation
+This week we focused on creating a presentation on our project, I was incharge of drafting and presenting the out of scope features. I spoke to my teammates about potential out of scope features before we dived into our various assignments and got to work.
