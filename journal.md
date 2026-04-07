@@ -12,3 +12,18 @@ This week we focused on design with our group trying to create flowcharts and di
 
 Date 02/21/2026 - Subject: Presentation
 This week we focused on creating a presentation on our project, I was incharge of drafting and presenting the out of scope features. I spoke to my teammates about potential out of scope features before we dived into our various assignments and got to work.
+
+Date 02/26/2026 - Subject: Scrum master
+We finished up presentations today, we also talked about the implementation stage and electing a scrum master each week to help organise the workload
+
+Date 03/12/2026 - Subject: Pair Programming
+This week we focused on actually starting to code our app. Unfortuntely there were a few no shows but we were able to work together to start editing the css and creating the framework for our app.
+
+Date 03/22/2026 - Subject: Ethics
+This week we did a lesson on ethics discussing various ethical dilemas in programming. Additionally we did a lot of coding and getting isses out of the way. 
+
+Date 03/27/2026 - Subject: Unit testing
+Unfortuntely this was a bad week for me I got into a car crash. Additionally we did unit testing in class also our team did more coding. I was incharge of implementing the design of our web app which I did.
+
+Date 04/01/2026 - Subject: Scrum Master
+This was my scrum master week I was incharge of putting much of the actual social media part of it in. I coded the capability for direct messaging. Settings which included password change, public and private accounts, tagging people in posts.
